@@ -269,9 +269,6 @@ table {
 }
 
 @media (max-width: 800px) {
-  #showcase {
-    margin-bottom: 50px;
-  }
   #showcase h2 {
     padding-top: 90px;
   }
